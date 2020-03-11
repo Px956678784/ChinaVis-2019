@@ -1,0 +1,10 @@
+.title-box{
+    width: 100%;
+    float:left;
+    padding-left: 2rem;
+    color:white
+}
+.copy{
+    font-size: 0.5rem;
+    margin: auto;
+}
